@@ -15,7 +15,7 @@ Edit `public/index.html` `index.babel` `index.styl`.
 
 ## Deployment
 
-Edit `circle.yml` and fill in `GIT_REPO` field.
+Edit `circle.yml` and fill in the `GIT_****` fields.
 
 Open [circleci](https://circleci.com) and build project.
 

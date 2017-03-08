@@ -5,6 +5,8 @@ machine:
   environment:
     PATH: "${PATH}:${HOME}/${CIRCLE_PROJECT_REPONAME}/node_modules/.bin"
     GIT_REPO: "git@github.com:pnlybubbles-gomibako/simple-webpage-boilerplate.git"
+    GIT_NAME: "CircleCI"
+    GIT_EMAIL: "pnlybubbles+circleci@gmail.com"
 
 dependencies:
   override:
