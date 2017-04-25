@@ -17,8 +17,11 @@ Edit `public/index.html` `index.babel` `index.styl`.
 
 Edit `circle.yml` and fill in the `GIT_****` fields.
 
+If you want a CNAME setting, fill in the `CNAME` field.
+
 Open [circleci](https://circleci.com) and build project.
 
 Project Settings -> Checkout SSH Keys -> Add user key
 
 Then, rebuild.
+
